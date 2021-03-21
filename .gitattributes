@@ -1,1 +1,0 @@
-store_sales/part-00000-b2cb2c49-c456-43b8-aa97-959e9e593c24-c000.snappy.parquet filter=lfs diff=lfs merge=lfs -text
